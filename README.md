@@ -1,12 +1,13 @@
-<h1 align="center">Tsyganok Vasya</h1>
-
-<p align="center">
-  »
-  <a href="https://www.livelib.ru/reader/ReZuCoS">My library</a>
-  •
-  <a href="https://t.me/ReZuCoS">Telegram</a>
-  «
-</p>
+<h1 align="center">
+  Tsyganok Vasya
+  <p align="center">
+    »
+    <a href="https://www.livelib.ru/reader/ReZuCoS">My library</a>
+    •
+    <a href="https://t.me/ReZuCoS">Telegram</a>
+    «
+  </p>
+</h1>
 
 <h3>About me</h3>
 
