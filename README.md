@@ -1,12 +1,5 @@
 <h1 align="center">
   Tsyganok Vasya
-  <p align="center">
-    <sub>
-      »
-      <a href="https://www.livelib.ru/reader/ReZuCoS">My library</a>
-      «
-    </sub>
-  </p>
 </h1>
 
 <h3>About me</h3>
