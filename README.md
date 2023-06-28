@@ -4,8 +4,6 @@
     <sub>
       »
       <a href="https://www.livelib.ru/reader/ReZuCoS">My library</a>
-      •
-      <a href="https://t.me/ReZuCoS">Telegram</a>
       «
     </sub>
   </p>
