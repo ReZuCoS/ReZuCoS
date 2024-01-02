@@ -5,7 +5,7 @@
 <h3>About me</h3>
 
 <p>
-  I'm 20 years old, learning programming since I
+  I'm 21 years old, learning programming since I
   was 16, started from <b>C++</b>, then switched to <b>C#</b>.
 </p>
 
